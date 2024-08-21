@@ -97,4 +97,6 @@ public class EntityDtoMapper {
         }
         return userDto;
     }
+
+    // https://www.youtube.com/watch?v=REXZodB1aAw&list=PLkib_NuK-LTbKPk-TiYUc71_3NMM16lMV&index=5
 }
