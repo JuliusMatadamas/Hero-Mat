@@ -9,4 +9,5 @@ public class HeroMatApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HeroMatApplication.class, args);
 	}
+
 }
